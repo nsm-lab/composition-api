@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vue Composition API
 
 > [Vue Composition API](https://vue-composition-api-rfc.netlify.com/)
@@ -335,3 +336,7 @@ export default {
   },
 };
 ```
+=======
+# composition-api
+Vue2 plugin for the Composition API
+>>>>>>> a4b3a01408afd9693c9f26132d84a61115ba9756
